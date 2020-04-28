@@ -1,0 +1,19 @@
+Commands used for this task : 
+
+git clone -> To clone repositary to local system
+
+cd -> To open directory created upon cloning 
+
+git branch -> To create branches 
+
+git checkout-> To switch between branches
+
+git add-> To add the edited file to branch
+
+git commit -> To commit the changes made
+
+git merge -> To merge branches
+
+git mv <old file name> <new file name > ->To rename files   
+
+git push -> To push to remote repositary
