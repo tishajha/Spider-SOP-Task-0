@@ -9,4 +9,5 @@ git merge-	to merge two branches
 git pull-	to pull the changes made in remote repo
 gitk- 		to get knowledge of different branches,merging and the history
 git log-	to check the logs
+git push-	to push it back to remote repo
 
