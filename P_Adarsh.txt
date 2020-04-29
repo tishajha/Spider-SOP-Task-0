@@ -1,0 +1,13 @@
+git clone-	used to copy the repo in my local system
+git branch-	used to get the branches avialable
+git status-	it will show the changes i made
+git add -	to stage the changes made in working directory
+git branch branch_name-		to create a branch
+git commit -m "some_information"-	to commit the changes in local repo
+git checkout branch_name-	to switch between branches 
+git merge-	to merge two branches
+git pull-	to pull the changes made in remote repo
+gitk- 		to get knowledge of different branches,merging and the history
+git log-	to check the logs
+git push-	to push it back to remote repo
+
