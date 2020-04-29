@@ -1,0 +1,17 @@
+git clone https://github.com/Yusuf-Shaikh/Spider-SOP-Task-0.git- to clone the repo from github and create a local copy of it
+
+git branch [branch name] - to create a new branch called branchname
+
+git checkout [branch name] - to move to the new branches
+
+add log.txt files
+
+git commit -m "commits" - to commit changes to local repo
+
+create other two branches and add the respective files and commit changes
+
+git merge - to merge the two branches(the one you are in and the one's name you type)
+
+git push origin [branch name] - to push it into remote
+
+give a pull request 
