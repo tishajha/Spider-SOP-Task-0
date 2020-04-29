@@ -1,0 +1,9 @@
+git clone - To clone the existing repository
+cd - To change directories
+git add - To stage the changes
+git commit - To commit the changes to local repository
+git branch - To craete new branch
+git checkout - To switch between branches
+git merge - To merge 2 branches
+git pull - To get all the updated data
+git push - To push the data to remote repository
