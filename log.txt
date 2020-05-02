@@ -1,0 +1,22 @@
+git clone {url} // to creat a working copy of a local repo
+
+git branch <branchname> // to creat a new branch
+
+git checkout <branchname> // to switch the branch from default to new
+
+git add <filename> // to add file in the branch 
+
+git commit -m {message}//to commit the changes to head 
+
+git status //to get the status of the branch 
+
+git push --set-upstreamorigin<branchname>//to push the branch 
+ 
+git merge [branch_name] // to merge the branch to the current active branch
+
+git push // to publish the changes in local repo to remote repo
+
+git pull // to merge the changes in local repo of remote repo
+
+git mv [oldname] [newname] // to rename the file
+ 
